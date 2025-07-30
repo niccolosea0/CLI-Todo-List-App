@@ -1,5 +1,7 @@
 # Command-Line Todo List App
 
+https://roadmap.sh/projects/task-tracker
+
 ### Description
 
 This project is a simple yet powerful command-line Todo List application built with Python.
@@ -38,5 +40,3 @@ All data is saved using an SQLite database, so your list never disappears, and t
    Open your terminal and run:
    ```bash
    pip install rich typer
-
-https://roadmap.sh/projects/task-tracker
