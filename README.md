@@ -1,11 +1,4 @@
 # Command-Line Todo List App
-### Author: Nikoloz Gogrichiani
-### City, Country: Tbilisi, Georgia
-### Date: 30/07/2025
-### Github: niccolosea0
-### Edx: niccolosea_
-
-#### Video Demo: https://youtu.be/t8zD0r5sUzA
 
 ### Description
 
