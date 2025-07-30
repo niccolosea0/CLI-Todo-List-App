@@ -37,4 +37,4 @@ All data is saved using an SQLite database, so your list never disappears, and t
 2. **Install dependencies:**
    Open your terminal and run:
    ```bash
-   pip install rich typer## Example: How it Looks
+   pip install rich typer
