@@ -3,7 +3,7 @@
 ### Description
 
 This project is a simple yet powerful command-line Todo List application built with Python.
-It allows you to manage your daily tasks directly from the terminal—no web browser or GUI required!
+It allows you to manage your daily tasks directly from the terminal no web browser or GUI required!
 
 The application is designed to help you:
 - Add tasks quickly with a title and category,
