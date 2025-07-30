@@ -1,7 +1,5 @@
 # Command-Line Todo List App
 
-https://roadmap.sh/projects/task-tracker
-
 ### Description
 
 This project is a simple yet powerful command-line Todo List application built with Python.
